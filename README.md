@@ -1,1 +1,39 @@
-a
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Café</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="cabecalho">
+        <h1>Meu Café</h1>
+        <p>Compartilhando aromas, sabores e histórias sobre café</p>
+    </div>
+
+    <div class="conteudo">
+
+        <img src="img/cafe.jpg" alt="Xícara de café" class="imagem-cafe">
+
+        <h2>Meu primeiro café</h2>
+
+        <p class="autor">Por: Pyetro Dehon Goll</p>
+
+        <p>
+            Bem-vindo ao meu blog sobre café! Aqui vou compartilhar dicas de preparo,
+            curiosidades sobre grãos, métodos de extração e experiências do universo cafeeiro.
+        </p>
+
+        <div class="botoes">
+            <button class="btn-coracao">❤️ Favoritar</button>
+            <button class="btn-like">👍 Like</button>
+            <button class="btn-deslike">👎 Deslike</button>
+        </div>
+
+    </div>
+
+</body>
+</html>
